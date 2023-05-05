@@ -1,9 +1,10 @@
 /*Professor, li que não para usar vetores assim que fui colocar os códigos no github,eu os usei
 apenas para deixar o código mais eficiente e enxuto. Está compilando perfeitamente. Mil perdões. 
 Prestarei mais atenção da próxima vez.
-QUESTÃO: 2.Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no
+2.Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no
 plano, p1(x1, y1) e p2(x2, y2) e calcule a distância entre eles, mostrando 4 casas decimais
-após a vírgula, segundo a fórmula:*/
+após a vírgula, segundo a fórmula:
+*/
 #include <stdio.h>
 #include <math.h>
     int main(){

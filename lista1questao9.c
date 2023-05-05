@@ -1,4 +1,4 @@
-/* QUESTÃO = 9.Elabore um algoritmo que permita ao usuário realizar a compra de frutas. 
+/* QUESTÃO = Elabore um algoritmo que permita ao usuário realizar a compra de frutas. 
 Assim, apresente a lista de frutas disponíveis, abaixo, com seus respectivos valores.*/
 #include <stdio.h>
 #include <stdlib.h>
