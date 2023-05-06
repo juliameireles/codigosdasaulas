@@ -1,4 +1,4 @@
-/*Professor, li que não para usar vetores assim que fui colocar os códigos no github,eu os usei
+/*Professor, li que não era para usar vetores assim que fui colocar os códigos no github,eu os usei
 apenas para deixar o código mais eficiente e enxuto. Está compilando perfeitamente. Mil perdões. 
 Prestarei mais atenção da próxima vez.
 QUESTÃO = 4.Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas
