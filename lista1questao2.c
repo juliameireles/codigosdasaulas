@@ -1,4 +1,4 @@
-/*Professor, li que não para usar vetores assim que fui colocar os códigos no github,eu os usei
+/*Professor, li que era não para usar vetores assim que fui colocar os códigos no github,eu os usei
 apenas para deixar o código mais eficiente e enxuto. Está compilando perfeitamente. Mil perdões. 
 Prestarei mais atenção da próxima vez.
 QUESTÃO = 2.Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no
